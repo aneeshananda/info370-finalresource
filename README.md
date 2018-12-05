@@ -1,6 +1,9 @@
 # Project Proposal
 > Aneesha Nanda, Ansul Sinha, Juan Alvarez, Katie Goulding
 
+## Final Project
+This link will bring you to our final hosted project: https://katiegoulding.github.io/
+
 ## Project Description
 ### Purpose
 > The overarching purpose of our research project is to look at what factors of a household can help predict the need of social welfare assistance. This is an important research question because social welfare programs can often be controversial when dealing with people living below the poverty line. Those who are living in some of the poorest conditions are often unable to provide the necessary income and expense records to be eligible for social welfare. Current methods for identifying where to provide aid and whether certain segments of the population are receiving enough aid rely on these factors leading to inaccurate assessments of social need. This research project focuses more on observable traits of a household and demographics of each household member to predict the level of need of a family. By conducting this research and developing a more accurate algorithm for providing social welfare based on visible features of a house, social welfare assistance can be more efficiently delivered and more highly utilized by those in need of it. 
